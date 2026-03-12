@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Luiz Eduardo
 
 ### 🧠 Sleep Researcher by Training • 📊 Data Scientist at Heart  
-I´m a proud brazilian that was raised in a tropical place called **🌤️ Natal (RN):** 33°C, Overcast Clouds.  
+I´m a proud brazilian that was raised in a tropical place called **Natal (RN)**: <!--NATAL_WEATHER-->loading...<!--END_NATAL_WEATHER-->.  
 
 On 2019 I moved to Sweden to improve as a scientist and open my world.   
-Since then I´m living and adapting myself at **🌦️ Uppsala:** 8°C, Overcast Clouds
+Since then I´m living and adapting myself at small city called **Uppsala**: <!--UPPSALA_WEATHER-->loading...<!--END_UPPSALA_WEATHER-->
 
 I bridge scientific rigor with data-driven creativity. After years studying sleep, neurobiology, and complex datasets, I now focus on transforming data into insight, clarity, and impact.
 
@@ -61,8 +61,7 @@ I bring that same aesthetic sense to my code: clarity, structure, and intention.
 ## 📫 Let’s Connect
 I’m open to data science, analytics, and research-driven roles where rigorous thinking and curiosity matter.
 
-**Have a great Thursday!**
-
+Have a great <!--WEEKDAY-->loading...<!--END_WEEKDAY-->!
 ---
 
 <!---
