@@ -62,6 +62,7 @@ I bring that same aesthetic sense to my code: clarity, structure, and intention.
 I’m open to data science, analytics, and research-driven roles where rigorous thinking and curiosity matter.
 
 Have a great <!--WEEKDAY-->loading...<!--END_WEEKDAY-->!
+
 ---
 
 <!---
