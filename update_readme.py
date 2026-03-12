@@ -23,9 +23,9 @@ weekday = datetime.now(tz).strftime("%A")
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
-readme = readme.replace("{{UPPSALA_WEATHER}}", uppsala_weather)
-readme = readme.replace("{{NATAL_WEATHER}}", natal_weather)
-readme = readme.replace("{{WEEKDAY}}", weekday)
+readme = replace_between(readme, "<!--UPPSALA_WEATHER-->", "<!--END_UPPSALA_WEATHER-->", uppsala_weather)
+readme = replace_between(readme, "<!--NATAL_WEATHER-->", "<!--END_NATAL_WEATHER-->", natal_weather)
+readme = replace_between(readme, "<!--WEEKDAY-->", "<!--END_WEEKDAY-->", weekday)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
