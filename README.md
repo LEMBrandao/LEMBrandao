@@ -59,7 +59,13 @@ I bring that same aesthetic sense to my code: clarity, structure, and intention.
 ---
 
 ## 📫 Let’s Connect
-I’m open to data science, analytics, and research-driven roles where rigorous thinking and curiosity matter.
+I’m open to data science, analytics, and research-driven roles where rigorous thinking and curiosity matter.  
+Find me here:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leduardobrandao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizeduardombrandao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemb.89@gmail.com)
+
 
 Have a great <!--WEEKDAY-->Thursday<!--END_WEEKDAY-->!
 
