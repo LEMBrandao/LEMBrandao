@@ -42,33 +42,33 @@ Now I’m applying that same analytical mindset to **data science and analytics*
 ---
 
 ## 🎨 A Creative Side
-Outside of data, I’m also a **fine art photographer** with a love for:
-- Museum-grade printing  
-- Conceptual storytelling  
-- Clean, minimalist presentation  
-
-I bring that same aesthetic sense to my code: clarity, structure, and intention.
+Outside of data, I’m also a **amateur photographer** with a love for conceptual storytelling and a clean/minimalist presentation.
+I am always trying to bring this aesthetic sense to my code: clarity, structure, and intention.
 
 ---
 
 ## 🚀 What I'm Working On
+
+- Sharpening my skills in SQL, dashboards, and end-to-end pipelines  
 - Building a portfolio of data science projects  
 - Exploring ML applications in health, behavior, and real-world analytics  
-- Sharpening my skills in SQL, dashboards, and end-to-end pipelines  
 
 ---
 
 ## 📫 Let’s Connect
 I’m open to data science, analytics, and research-driven roles where rigorous thinking and curiosity matter.  
+It is always a pleasure to talk about digital photography📸   
+
 Find me here:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leduardobrandao)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KQoVy4oAAAAJ&hl)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@leduardobrandao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizeduardombrandao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemb.89@gmail.com)
 
 
 Have a great <!--WEEKDAY-->Tuesday<!--END_WEEKDAY-->!
-
+=D
 ---
 
 <!---
