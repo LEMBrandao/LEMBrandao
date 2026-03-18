@@ -42,8 +42,8 @@ Now I’m applying that same analytical mindset to **data science and analytics*
 ---
 
 ## 🎨 A Creative Side
-Outside of data, I’m also a **amateur photographer** with a love for conceptual storytelling and a clean/minimalist presentation.
-I am always trying to bring this aesthetic sense to my code: clarity, structure, and intention.
+Outside of work, I enjoy photography with a focus on conceptual and minimalist storytelling.  
+I bring this same mindset to data analysis: clarity, structure, and purpose.
 
 ---
 
