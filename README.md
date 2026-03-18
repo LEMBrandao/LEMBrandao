@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luiz Eduardo
 
 ### 🧠 Sleep Researcher by Training • 📊 Data Scientist at Heart  
-I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->27°C, Broken Clouds<!--END_NATAL_WEATHER-->).  
+I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->31°C, Scattered Clouds<!--END_NATAL_WEATHER-->).  
 
 In 2019, I moved to **Sweden** to grow as a scientist and expand my world.   
 Since then, I´ve be living (and continuously adapting) in the small, charming city of **Uppsala** (<!--UPPSALA_WEATHER-->9°C, Overcast Clouds<!--END_UPPSALA_WEATHER-->).
