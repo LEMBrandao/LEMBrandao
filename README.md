@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luiz Eduardo
+# 👋 Hi, I'm Eduardo
 
 ### 🧠 Sleep Researcher by Training • 📊 Data Scientist by mindset  
 I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->31°C, Scattered Clouds<!--END_NATAL_WEATHER-->).  
