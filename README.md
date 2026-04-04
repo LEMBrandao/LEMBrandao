@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eduardo
 
 ### 🧠 Sleep Researcher by Training • 📊 Data Scientist by mindset  
-I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->25°C, Broken Clouds<!--END_NATAL_WEATHER-->).  
+I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->30°C, Broken Clouds<!--END_NATAL_WEATHER-->).  
 
 In 2019, I moved to **Sweden** to grow as a scientist and expand my world.   
 Since then, I´ve be living (and continuously adapting) in the small, charming city of **Uppsala** (<!--UPPSALA_WEATHER-->3°C, Moderate Rain<!--END_UPPSALA_WEATHER-->).
