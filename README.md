@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Eduardo
 
 ### 🧠 Sleep Researcher by Training • 📊 Data Scientist by mindset  
-I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->30°C, Overcast Clouds<!--END_NATAL_WEATHER-->).  
+I´m a proud brazilian, raised in the tropical city of **Natal-RN** (<!--NATAL_WEATHER-->26°C, Few Clouds<!--END_NATAL_WEATHER-->).  
 
 In 2019, I moved to **Sweden** to grow as a scientist and expand my world.   
-Since then, I´ve be living (and continuously adapting) in the small, charming city of **Uppsala** (<!--UPPSALA_WEATHER-->9°C, Overcast Clouds<!--END_UPPSALA_WEATHER-->).
+Since then, I´ve be living (and continuously adapting) in the small, charming city of **Uppsala** (<!--UPPSALA_WEATHER-->-1°C, Overcast Clouds<!--END_UPPSALA_WEATHER-->).
 
 I bridge scientific rigor with data-driven creativity. After years studying sleep, neurobiology, and complex datasets, I now focus on transforming data into insight, clarity, and impact.
 
@@ -67,7 +67,7 @@ Find me here:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemb.89@gmail.com)
 
 
-Have a great <!--WEEKDAY-->Friday<!--END_WEEKDAY-->!
+Have a great <!--WEEKDAY-->Saturday<!--END_WEEKDAY-->!
 =D
 ---
 
